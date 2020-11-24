@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1605812911863" stop="1605812978315" version="1.4.0">
+  <name>Guidance\Tests\Project\.Test/Project</name>
+  <test-cases>
+    <test-case start="1605812911927" stop="1605812978306" status="broken">
+      <name>BenefitFR</name>
+      <failure>
+        <message>element click intercepted: Element &lt;button aria-disabled="true" aria-label="Increase Quantity" class="counter__btn counter__btn--plus"&gt;...&lt;/button&gt; is not clickable at point (863, 613). Other element would receive the click: &lt;form class="product-info__section product-view__add-to-cart-wrapper"&gt;...&lt;/form&gt;
+  (Session info: chrome=87.0.4280.67)</message>
+        <stack-trace>#0 /Users/whazle/Desktop/hearst-m2-tests/vendor/phpunit/phpunit/src/Framework/TestSuite.php(665): Codeception\Test\Test-&gt;run(Object(PHPUnit\Framework\TestResult))
+#1 /Users/whazle/Desktop/hearst-m2-tests/vendor/codeception/phpunit-wrapper/src/Runner.php(117): PHPUnit\Framework\TestSuite-&gt;run(Object(PHPUnit\Framework\TestResult))
+#2 /Users/whazle/Desktop/hearst-m2-tests/vendor/codeception/codeception/src/Codeception/SuiteManager.php(161): Codeception\PHPUnit\Runner-&gt;doEnhancedRun(Object(Codeception\Suite), Object(PHPUnit\Framework\TestResult), Array)
+#3 /Users/whazle/Desktop/hearst-m2-tests/vendor/codeception/codeception/src/Codeception/Codecept.php(196): Codeception\SuiteManager-&gt;run(Object(Codeception\PHPUnit\Runner), Object(PHPUnit\Framework\TestResult), Array)
+#4 /Users/whazle/Desktop/hearst-m2-tests/vendor/guidance/tests_base/src/Codeception/Launcher.php(93): Codeception\Codecept-&gt;runSuite(Array, 'Test/Project', 'DemoCest.php')
+#5 /Users/whazle/Desktop/hearst-m2-tests/bin/dev(62): Guidance\Tests\Base\Codeception\Launcher-&gt;launch()
+#6 {main}</stack-trace>
+      </failure>
+      <steps>
+        <step start="1605812914108" stop="1605812916255" status="passed">
+          <name>am on url "https://www•benefitcosmetics•com/fr-fr/"</name>
+        </step>
+        <step start="1605812916256" stop="1605812916559" status="passed">
+          <name>see "produits"</name>
+        </step>
+        <step start="1605812916564" stop="1605812921564" status="passed">
+          <name>wait 5</name>
+        </step>
+        <step start="1605812921565" stop="1605812921633" status="passed">
+          <name>click {"css":"#onetrust-accept-btn-handler"}</name>
+        </step>
+        <step start="1605812921633" stop="1605812925634" status="passed">
+          <name>wait 4</name>
+        </step>
+        <step start="1605812925634" stop="1605812925786" status="passed">
+          <name>move mouse over {"css":"•account-popup__link &gt; span:nth-child(1)"}</name>
+        </step>
+        <step start="1605812925786" stop="1605812929786" status="passed">
+          <name>wait 4</name>
+        </step>
+        <step start="1605812929787" stop="1605812930081" status="passed">
+          <name>fill field {"id":"login_form_email"},"wayne•hazle@guidance•com"</name>
+        </step>
+        <step start="1605812930081" stop="1605812933085" status="passed">
+          <name>wait 3</name>
+        </step>
+        <step start="1605812933085" stop="1605812933207" status="passed">
+          <name>fill field {"id":"login_form_password"},"@Testing123"</name>
+        </step>
+        <step start="1605812933207" stop="1605812935211" status="passed">
+          <name>wait 2</name>
+        </step>
+        <step start="1605812935211" stop="1605812935302" status="passed">
+          <name>click {"css":"button•btn:nth-child(4)"}</name>
+        </step>
+        <step start="1605812935302" stop="1605812939305" status="passed">
+          <name>wait 4</name>
+        </step>
+        <step start="1605812939305" stop="1605812939894" status="passed">
+          <name>am on url "https://www•benefitcosmetics•com/fr-fr/account"</name>
+        </step>
+        <step start="1605812939894" stop="1605812940058" status="passed">
+          <name>see "profil"</name>
+        </step>
+        <step start="1605812940058" stop="1605812944059" status="passed">
+          <name>wait 4</name>
+        </step>
+        <step start="1605812944059" stop="1605812944929" status="passed">
+          <name>am on url "https://www•benefitcosmetics•com/fr-fr/"</name>
+        </step>
+        <step start="1605812944929" stop="1605812945093" status="passed">
+          <name>fill field {"css":"#search-input"},"Eye"</name>
+        </step>
+        <step start="1605812945093" stop="1605812947093" status="passed">
+          <name>wait 2</name>
+        </step>
+        <step start="1605812947093" stop="1605812947775" status="passed">
+          <name>press key {"css":"#search-input"},""</name>
+        </step>
+        <step start="1605812947775" stop="1605812951776" status="passed">
+          <name>wait 4</name>
+        </step>
+        <step start="1605812951776" stop="1605812952017" status="passed">
+          <name>see "eye"</name>
+        </step>
+        <step start="1605812952017" stop="1605812956020" status="passed">
+          <name>wait 4</name>
+        </step>
+        <step start="1605812956020" stop="1605812956490" status="passed">
+          <name>am on url "https://www•benefitcosmetics•com/fr-fr/brow-makeup"</name>
+        </step>
+        <step start="1605812956490" stop="1605812956746" status="passed">
+          <name>see "prod"</name>
+        </step>
+        <step start="1605812956746" stop="1605812960749" status="passed">
+          <name>wait 4</name>
+        </step>
+        <step start="1605812960749" stop="1605812960822" status="passed">
+          <name>click {"css":"#ac-0 &gt; button:nth-child(1)"}</name>
+        </step>
+        <step start="1605812960822" stop="1605812961826" status="passed">
+          <name>wait 1</name>
+        </step>
+        <step start="1605812961826" stop="1605812961897" status="passed">
+          <name>click {"css":"#filter-20"}</name>
+        </step>
+        <step start="1605812961897" stop="1605812966897" status="passed">
+          <name>wait 5</name>
+        </step>
+        <step start="1605812966897" stop="1605812968544" status="passed">
+          <name>am on url "https://www•benefitcosmetics•com/fr-fr/product/24-hour-brow-setter-clear-brow-gel?product=24HOUBM66-FULL&amp;sku=BM66"</name>
+        </step>
+        <step start="1605812968544" stop="1605812968895" status="passed">
+          <name>see "Brow"</name>
+        </step>
+        <step start="1605812968895" stop="1605812976299" status="failed">
+          <name>click {"css":"form•product-info__section &gt; div:nth-child(1) &gt; div:nth-child(1) &gt; button:nth-child(3)"}</name>
+        </step>
+      </steps>
+      <attachments>
+        <attachment title="png" source="7ac870f9449215f80a339425c0b05b3b00d9d334-attachment.png" type="image/png"/>
+        <attachment title="html" source="87164e83756af7c9cbf7269becc0e14056ea4ebf-attachment.html" type="text/html"/>
+      </attachments>
+      <labels>
+        <label name="testMethod" value="BenefitFR"/>
+        <label name="testClass" value="Guidance\Tests\Project\Test\Project\DemoCest"/>
+      </labels>
+    </test-case>
+  </test-cases>
+</alr:test-suite>

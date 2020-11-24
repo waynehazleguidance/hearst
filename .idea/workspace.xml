@@ -1,0 +1,515 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8714c0c2-cacf-4796-81e2-cd6643a2ee4c" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
+    <pharConfigPath>$PROJECT_DIR$/tests_skeleton/composer.json</pharConfigPath>
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="hearst-m2-tests" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Test/Project/DemoCest.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2790">
+              <caret line="186" column="20" lean-forward="true" selection-start-line="186" selection-start-column="20" selection-end-line="186" selection-end-column="20" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>ssh</find>
+      <find>prev</find>
+      <find>exec</find>
+      <find>chr</find>
+      <find>chrome</find>
+      <find>c</find>
+      <find>cooki</find>
+      <find>fill</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/tests_skeleton" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/tests_skeleton/composer.json" />
+        <option value="$PROJECT_DIR$/tests_skeleton/src/Test/Project/Hearst.php" />
+        <option value="$PROJECT_DIR$/tests_skeleton/config/codecept/website/US/staging.yml" />
+        <option value="$PROJECT_DIR$/tests_skeleton/config/codecept/staging.yml" />
+        <option value="$PROJECT_DIR$/tests_skeleton/config/codecept/production.yml" />
+        <option value="$PROJECT_DIR$/tests_skeleton/config/codecept/website/US/production.yml" />
+        <option value="$PROJECT_DIR$/tests_skeleton/config/codecept/development.yml" />
+        <option value="$PROJECT_DIR$/tests_skeleton/config/codecept/website/US/development.yml" />
+        <option value="$PROJECT_DIR$/tests_skeleton/src/Test/Project/DemoCest.php" />
+        <option value="$PROJECT_DIR$/src/Test/BaseAbstract.php" />
+        <option value="$PROJECT_DIR$/config/codecept/development.yml" />
+        <option value="$PROJECT_DIR$/config/codecept/production.yml" />
+        <option value="$PROJECT_DIR$/config/codecept/staging.yml" />
+        <option value="$PROJECT_DIR$/config/codecept/website/US/staging.yml" />
+        <option value="$PROJECT_DIR$/config/codecept/website/US/production.yml" />
+        <option value="$PROJECT_DIR$/config/codecept/website/US/development.yml" />
+        <option value="$PROJECT_DIR$/src/Test/Project/DemoCest.php" />
+      </list>
+    </option>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration">
+    <include_path>
+      <path value="$PROJECT_DIR$/tests_skeleton/vendor/phpcollection/phpcollection" />
+      <path value="$PROJECT_DIR$/tests_skeleton/vendor/phpdocumentor/reflection-docblock" />
+      <path value="$PROJECT_DIR$/tests_skeleton/vendor/phpdocumentor/type-resolver" />
+      <path value="$PROJECT_DIR$/tests_skeleton/vendor/phpdocumentor/reflection-common" />
+      <path value="$PROJECT_DIR$/tests_skeleton/vendor/zendframework/zend-json" />
+      <path value="$PROJECT_DIR$/tests_skeleton/vendor/allure-framework/allure-php-api" />
+      <path value="$PROJECT_DIR$/tests_skeleton/vendor/composer" />
+      <path value="$PROJECT_DIR$/tests_skeleton/vendor/hoa/exception" />
+      <path value="$PROJECT_DIR$/tests_skeleton/vendor/hoa/console" />
+      <path value="$PROJECT_DIR$/tests_skeleton/vendor/hoa/protocol" />
+      <path value="$PROJECT_DIR$/tests_skeleton/vendor/hoa/iterator" />
+      <path value="$PROJECT_DIR$/tests_skeleton/vendor/hoa/file" />
+      <path value="$PROJECT_DIR$/tests_skeleton/vendor/hoa/stream" />
+      <path value="$PROJECT_DIR$/tests_skeleton/vendor/hoa/ustring" />
+      <path value="$PROJECT_DIR$/tests_skeleton/vendor/hoa/event" />
+      <path value="$PROJECT_DIR$/tests_skeleton/vendor/hoa/consistency" />
+      <path value="$PROJECT_DIR$/tests_skeleton/vendor/jms/metadata" />
+      <path value="$PROJECT_DIR$/tests_skeleton/vendor/jms/serializer" />
+      <path value="$PROJECT_DIR$/tests_skeleton/vendor/jms/parser-lib" />
+      <path value="$PROJECT_DIR$/tests_skeleton/vendor/psr/container" />
+      <path value="$PROJECT_DIR$/tests_skeleton/vendor/psr/http-message" />
+      <path value="$PROJECT_DIR$/tests_skeleton/vendor/psr/log" />
+      <path value="$PROJECT_DIR$/tests_skeleton/vendor/opis/closure" />
+      <path value="$PROJECT_DIR$/tests_skeleton/vendor/twig/twig" />
+      <path value="$PROJECT_DIR$/tests_skeleton/vendor/behat/gherkin" />
+      <path value="$PROJECT_DIR$/tests_skeleton/vendor/brick/math" />
+      <path value="$PROJECT_DIR$/tests_skeleton/vendor/memio/memio" />
+      <path value="$PROJECT_DIR$/tests_skeleton/vendor/memio/linter" />
+      <path value="$PROJECT_DIR$/tests_skeleton/vendor/memio/validator" />
+      <path value="$PROJECT_DIR$/tests_skeleton/vendor/memio/pretty-printer" />
+      <path value="$PROJECT_DIR$/tests_skeleton/vendor/memio/model" />
+      <path value="$PROJECT_DIR$/tests_skeleton/vendor/memio/twig-template-engine" />
+      <path value="$PROJECT_DIR$/tests_skeleton/vendor/nikic/php-parser" />
+      <path value="$PROJECT_DIR$/tests_skeleton/vendor/glicer/sync-sftp" />
+      <path value="$PROJECT_DIR$/tests_skeleton/vendor/php-di/php-di" />
+      <path value="$PROJECT_DIR$/tests_skeleton/vendor/php-di/phpdoc-reader" />
+      <path value="$PROJECT_DIR$/tests_skeleton/vendor/php-di/invoker" />
+      <path value="$PROJECT_DIR$/tests_skeleton/vendor/ramsey/collection" />
+      <path value="$PROJECT_DIR$/tests_skeleton/vendor/ramsey/uuid" />
+      <path value="$PROJECT_DIR$/tests_skeleton/vendor/egulias/email-validator" />
+      <path value="$PROJECT_DIR$/tests_skeleton/vendor/myclabs/deep-copy" />
+      <path value="$PROJECT_DIR$/tests_skeleton/vendor/phar-io/manifest" />
+      <path value="$PROJECT_DIR$/tests_skeleton/vendor/phar-io/version" />
+      <path value="$PROJECT_DIR$/tests_skeleton/vendor/phpspec/prophecy" />
+      <path value="$PROJECT_DIR$/tests_skeleton/vendor/phpunit/php-timer" />
+      <path value="$PROJECT_DIR$/tests_skeleton/vendor/phpunit/php-file-iterator" />
+      <path value="$PROJECT_DIR$/tests_skeleton/vendor/phpunit/php-text-template" />
+      <path value="$PROJECT_DIR$/tests_skeleton/vendor/phpunit/php-invoker" />
+      <path value="$PROJECT_DIR$/tests_skeleton/vendor/phpunit/php-code-coverage" />
+      <path value="$PROJECT_DIR$/tests_skeleton/vendor/phpunit/phpunit" />
+      <path value="$PROJECT_DIR$/tests_skeleton/vendor/symfony/deprecation-contracts" />
+      <path value="$PROJECT_DIR$/tests_skeleton/vendor/symfony/service-contracts" />
+      <path value="$PROJECT_DIR$/tests_skeleton/vendor/symfony/mime" />
+      <path value="$PROJECT_DIR$/tests_skeleton/vendor/symfony/var-dumper" />
+      <path value="$PROJECT_DIR$/tests_skeleton/vendor/symfony/polyfill-intl-idn" />
+      <path value="$PROJECT_DIR$/tests_skeleton/vendor/symfony/polyfill-php80" />
+      <path value="$PROJECT_DIR$/tests_skeleton/vendor/symfony/http-client-contracts" />
+      <path value="$PROJECT_DIR$/tests_skeleton/vendor/symfony/google-mailer" />
+      <path value="$PROJECT_DIR$/tests_skeleton/vendor/symfony/event-dispatcher" />
+      <path value="$PROJECT_DIR$/tests_skeleton/vendor/symfony/css-selector" />
+      <path value="$PROJECT_DIR$/tests_skeleton/vendor/symfony/error-handler" />
+      <path value="$PROJECT_DIR$/tests_skeleton/vendor/symfony/polyfill-ctype" />
+      <path value="$PROJECT_DIR$/tests_skeleton/vendor/symfony/event-dispatcher-contracts" />
+      <path value="$PROJECT_DIR$/tests_skeleton/vendor/symfony/yaml" />
+      <path value="$PROJECT_DIR$/tests_skeleton/vendor/symfony/console" />
+      <path value="$PROJECT_DIR$/tests_skeleton/vendor/symfony/process" />
+      <path value="$PROJECT_DIR$/tests_skeleton/vendor/symfony/debug" />
+      <path value="$PROJECT_DIR$/tests_skeleton/vendor/symfony/twig-bundle" />
+      <path value="$PROJECT_DIR$/tests_skeleton/vendor/symfony/polyfill-php72" />
+      <path value="$PROJECT_DIR$/tests_skeleton/vendor/symfony/polyfill-intl-normalizer" />
+      <path value="$PROJECT_DIR$/tests_skeleton/vendor/symfony/polyfill-php73" />
+      <path value="$PROJECT_DIR$/tests_skeleton/vendor/symfony/http-kernel" />
+      <path value="$PROJECT_DIR$/tests_skeleton/vendor/symfony/mailer" />
+      <path value="$PROJECT_DIR$/tests_skeleton/vendor/symfony/filesystem" />
+      <path value="$PROJECT_DIR$/tests_skeleton/vendor/symfony/twig-bridge" />
+      <path value="$PROJECT_DIR$/tests_skeleton/vendor/symfony/finder" />
+      <path value="$PROJECT_DIR$/tests_skeleton/vendor/symfony/polyfill-php70" />
+      <path value="$PROJECT_DIR$/tests_skeleton/vendor/symfony/polyfill-mbstring" />
+      <path value="$PROJECT_DIR$/tests_skeleton/vendor/symfony/translation-contracts" />
+      <path value="$PROJECT_DIR$/tests_skeleton/vendor/symfony/http-foundation" />
+      <path value="$PROJECT_DIR$/tests_skeleton/vendor/theseer/tokenizer" />
+      <path value="$PROJECT_DIR$/tests_skeleton/vendor/doctrine/instantiator" />
+      <path value="$PROJECT_DIR$/tests_skeleton/vendor/doctrine/annotations" />
+      <path value="$PROJECT_DIR$/tests_skeleton/vendor/doctrine/lexer" />
+      <path value="$PROJECT_DIR$/tests_skeleton/vendor/guidance/tests_base" />
+      <path value="$PROJECT_DIR$/tests_skeleton/vendor/paragonie/random_compat" />
+      <path value="$PROJECT_DIR$/tests_skeleton/vendor/phpoption/phpoption" />
+      <path value="$PROJECT_DIR$/tests_skeleton/vendor/phpseclib/phpseclib" />
+      <path value="$PROJECT_DIR$/tests_skeleton/vendor/ralouphie/getallheaders" />
+      <path value="$PROJECT_DIR$/tests_skeleton/vendor/sebastian/global-state" />
+      <path value="$PROJECT_DIR$/tests_skeleton/vendor/sebastian/complexity" />
+      <path value="$PROJECT_DIR$/tests_skeleton/vendor/sebastian/recursion-context" />
+      <path value="$PROJECT_DIR$/tests_skeleton/vendor/sebastian/object-enumerator" />
+      <path value="$PROJECT_DIR$/tests_skeleton/vendor/sebastian/object-reflector" />
+      <path value="$PROJECT_DIR$/tests_skeleton/vendor/sebastian/cli-parser" />
+      <path value="$PROJECT_DIR$/tests_skeleton/vendor/sebastian/diff" />
+      <path value="$PROJECT_DIR$/tests_skeleton/vendor/sebastian/lines-of-code" />
+      <path value="$PROJECT_DIR$/tests_skeleton/vendor/sebastian/type" />
+      <path value="$PROJECT_DIR$/tests_skeleton/vendor/sebastian/version" />
+      <path value="$PROJECT_DIR$/tests_skeleton/vendor/sebastian/comparator" />
+      <path value="$PROJECT_DIR$/tests_skeleton/vendor/sebastian/environment" />
+      <path value="$PROJECT_DIR$/tests_skeleton/vendor/sebastian/exporter" />
+      <path value="$PROJECT_DIR$/tests_skeleton/vendor/sebastian/code-unit" />
+      <path value="$PROJECT_DIR$/tests_skeleton/vendor/sebastian/resource-operations" />
+      <path value="$PROJECT_DIR$/tests_skeleton/vendor/sebastian/code-unit-reverse-lookup" />
+      <path value="$PROJECT_DIR$/tests_skeleton/vendor/webmozart/assert" />
+      <path value="$PROJECT_DIR$/tests_skeleton/vendor/fzaninotto/faker" />
+      <path value="$PROJECT_DIR$/tests_skeleton/vendor/guzzlehttp/psr7" />
+      <path value="$PROJECT_DIR$/tests_skeleton/vendor/codeception/phpunit-wrapper" />
+      <path value="$PROJECT_DIR$/tests_skeleton/vendor/codeception/lib-asserts" />
+      <path value="$PROJECT_DIR$/tests_skeleton/vendor/codeception/module-webdriver" />
+      <path value="$PROJECT_DIR$/tests_skeleton/vendor/codeception/module-filesystem" />
+      <path value="$PROJECT_DIR$/tests_skeleton/vendor/codeception/stub" />
+      <path value="$PROJECT_DIR$/tests_skeleton/vendor/codeception/codeception" />
+      <path value="$PROJECT_DIR$/tests_skeleton/vendor/codeception/module-asserts" />
+      <path value="$PROJECT_DIR$/tests_skeleton/vendor/php-webdriver/webdriver" />
+    </include_path>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="y" value="23" />
+    <option name="width" value="1680" />
+    <option name="height" value="987" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="hearst-m2-tests" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hearst-m2-tests" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="hearst-m2-tests" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hearst-m2-tests" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="hearst-m2-tests" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hearst-m2-tests" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="hearst-m2-tests" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hearst-m2-tests" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Test" type="462c0819:PsiDirectoryNode" />
+              <item name="Project" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/Test" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/Test/Project" />
+      <recent name="$PROJECT_DIR$/tests_skeleton/src/Test/Project" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="debug/Dockerfile" type="docker-deploy" factoryName="dockerfile" temporary="true" server-name="Docker">
+      <deployment type="dockerfile">
+        <settings>
+          <option name="buildCliOptions" value="" />
+          <option name="command" value="" />
+          <option name="containerName" value="" />
+          <option name="entrypoint" value="" />
+          <option name="imageTag" value="" />
+          <option name="commandLineOptions" value="" />
+          <option name="sourceFilePath" value="tests_skeleton/dev/misc/docker/debug/Dockerfile" />
+        </settings>
+      </deployment>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Docker.debug/Dockerfile" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8714c0c2-cacf-4796-81e2-cd6643a2ee4c" name="Default Changelist" comment="" />
+      <created>1601569140018</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1601569140018</updated>
+      <workItem from="1601569141964" duration="25482000" />
+      <workItem from="1602198133739" duration="698000" />
+      <workItem from="1602485877756" duration="2118000" />
+      <workItem from="1602867246439" duration="1629000" />
+      <workItem from="1602870115174" duration="1148000" />
+      <workItem from="1602880396282" duration="1582000" />
+      <workItem from="1603068697919" duration="4109000" />
+      <workItem from="1603144243632" duration="21000" />
+      <workItem from="1603149567604" duration="3298000" />
+      <workItem from="1603232347401" duration="34568000" />
+      <workItem from="1603677536386" duration="11558000" />
+      <workItem from="1603813369013" duration="19853000" />
+      <workItem from="1605222116677" duration="107000" />
+      <workItem from="1605665673569" duration="48000" />
+      <workItem from="1605766181593" duration="599000" />
+      <workItem from="1605807350144" duration="1453000" />
+      <workItem from="1605838215730" duration="529000" />
+      <workItem from="1606232420854" duration="599000" />
+      <workItem from="1606242867689" duration="2093000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="111492000" />
+  </component>
+  <component name="TodoView" selected-index="1">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="23" width="1680" height="987" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4991453" visible="true" weight="0.30647132" />
+      <window_info id="Structure" order="1" sideWeight="0.50085473" side_tool="true" weight="0.25582823" />
+      <window_info id="Favorites" order="2" sideWeight="0.50085473" side_tool="true" weight="0.25582823" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32912844" />
+      <window_info anchor="bottom" id="Docker" order="7" weight="0.32912844" />
+      <window_info anchor="bottom" id="Database Changes" order="8" />
+      <window_info anchor="bottom" id="Version Control" order="9" weight="0.32912844" />
+      <window_info anchor="bottom" id="Terminal" order="10" sideWeight="0.4993895" visible="true" weight="0.3206704" />
+      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.50061053" side_tool="true" weight="0.32138857" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Database" order="3" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="Favorites" order="0" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.24969324" />
+      <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Docker" order="0" weight="0.32912844" />
+      <window_info anchor="bottom" id="Terminal" order="1" visible="true" weight="0.32912844" />
+      <window_info anchor="bottom" id="Event Log" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Database Changes" order="3" />
+      <window_info anchor="bottom" id="Version Control" order="4" />
+      <window_info anchor="bottom" id="Message" order="5" />
+      <window_info anchor="bottom" id="Find" order="6" />
+      <window_info anchor="bottom" id="Run" order="7" />
+      <window_info anchor="bottom" id="Debug" order="8" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="9" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="10" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="11" />
+      <window_info anchor="right" id="Database" order="0" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="1" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="2" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="3" weight="0.25" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/tests_skeleton/vars/output/result.html" />
+    <entry file="file://$PROJECT_DIR$/tests_skeleton/composer.json" />
+    <entry file="file://$PROJECT_DIR$/tests_skeleton/src/Test/Project/Hearst.php" />
+    <entry file="file://$PROJECT_DIR$/tests_skeleton/composer.lock" />
+    <entry file="file://$PROJECT_DIR$/tests_skeleton/bin/prod" />
+    <entry file="file://$PROJECT_DIR$/tests_skeleton/config/codecept/website/US/staging.yml" />
+    <entry file="file://$PROJECT_DIR$/tests_skeleton/bin/stage" />
+    <entry file="file://$PROJECT_DIR$/tests_skeleton/vendor/autoload.php" />
+    <entry file="file://$PROJECT_DIR$/tests_skeleton/bin/dev" />
+    <entry file="file://$PROJECT_DIR$/tests_skeleton/vars/output/failed" />
+    <entry file="file://$PROJECT_DIR$/tests_skeleton/vars/output/Guidance.Tests.Project.Test.Project.DemoCest.ShopCosmopolitan.development.fail.html" />
+    <entry file="file://$PROJECT_DIR$/tests_skeleton/vars/output/Guidance.Tests.Project.Test.Project.DemoCest.ShopCosmopolitan.development.fail.png" />
+    <entry file="file://$PROJECT_DIR$/tests_skeleton/config/website.json" />
+    <entry file="file://$PROJECT_DIR$/tests_skeleton/config/codecept/production.yml" />
+    <entry file="file://$PROJECT_DIR$/tests_skeleton/config/codecept/default_options.php" />
+    <entry file="file://$PROJECT_DIR$/tests_skeleton/config/codecept/website/US/production.yml" />
+    <entry file="file://$PROJECT_DIR$/tests_skeleton/config/codecept/website/US/development.yml" />
+    <entry file="file://$PROJECT_DIR$/tests_skeleton/config/codecept/development.yml" />
+    <entry file="file://$PROJECT_DIR$/tests_skeleton/config/codecept/staging.yml" />
+    <entry file="file://$PROJECT_DIR$/tests_skeleton/src/Test/Project/DemoCest.php" />
+    <entry file="file://$PROJECT_DIR$/src/_generated/ActorActions.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="300" column="65" lean-forward="true" selection-start-line="300" selection-start-column="65" selection-end-line="300" selection-end-column="65" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bin/dev">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="28" column="7" selection-start-line="28" selection-start-column="7" selection-end-line="28" selection-end-column="7" />
+          <folding>
+            <element signature="e#25#226#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bin/prod">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="9" column="41" selection-start-line="9" selection-start-column="41" selection-end-line="9" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bin/stage">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="11" column="36" selection-start-line="11" selection-start-column="35" selection-end-line="11" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/di/configure_creation.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/website.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/general/browser/chrome/watermark.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Test/BaseAbstract.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" selection-start-line="19" selection-end-line="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vars/output/result.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="58">
+          <caret line="301" column="8" lean-forward="true" selection-start-line="301" selection-start-column="8" selection-end-line="301" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/codecept/production.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="331">
+          <caret line="47" column="30" selection-start-line="47" selection-start-column="30" selection-end-line="47" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/codecept/development.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="47" column="40" selection-start-line="47" selection-start-column="35" selection-end-line="47" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/codecept/default_options.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="29" selection-start-line="11" selection-start-column="29" selection-end-line="11" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/codecept/staging.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="331">
+          <caret line="47" column="30" selection-start-line="47" selection-start-column="30" selection-end-line="47" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/codecept/website/US/production.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="484">
+          <caret line="57" lean-forward="true" selection-start-line="57" selection-end-line="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/codecept/website/US/staging.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="473">
+          <caret line="57" selection-start-line="57" selection-end-line="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/codecept/website/US/development.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="36" selection-start-line="36" selection-end-line="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Test/Project/HearstAccept.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-844" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Test/Project/Hearst.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1578">
+          <caret line="139" column="39" lean-forward="true" selection-start-line="139" selection-start-column="39" selection-end-line="139" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Test/Project/DemoCest.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2790">
+          <caret line="186" column="20" lean-forward="true" selection-start-line="186" selection-start-column="20" selection-end-line="186" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
